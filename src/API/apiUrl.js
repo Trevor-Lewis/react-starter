@@ -1,0 +1,1 @@
+export const apiURL = "https://sb-backendapi.azurewebsites.net/api"
